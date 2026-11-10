@@ -40,4 +40,11 @@ Raw Nmap/Greenbone exports were absent from the supplied folder. Findings theref
 
 ## Skills demonstrated
 
-Network discovery · service enumeration · vulnerability triage · exploitation validation · web application testing · evidence handling · NTFS analysis · technical reporting
+- Network discovery
+- Service enumeration
+- Vulnerability triage
+- Exploitation validation
+- Web application testing
+- Evidence handling
+- NTFS analysis
+- Technical reporting
