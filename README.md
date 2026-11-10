@@ -17,7 +17,6 @@ The strongest evidence shows an MS17-010 detection followed by Windows SYSTEM ac
 | [Evidence limitations](docs/evidence-review.md) | Authentication, scoring and source discrepancies |
 | [Remediation and lessons](docs/remediation.md) | Risk priorities, retesting and conclusions |
 | [References](docs/references.md) | Technical documentation |
-| [Publication guide](PUBLISHING.md) | Review and GitHub publication steps |
 
 ## Assessment highlights
 
