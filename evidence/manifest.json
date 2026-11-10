@@ -1,0 +1,128 @@
+[
+  {
+    "file": "screenshots/nmap-ms17-010.png",
+    "sha256": "d374330094365da46f46d89744719887126fbd9b190b4d6603f465093143c742",
+    "source_image_sha256": "0ee3718fcdbaf9dc0af10fb323ceac216091985d292eeb3e61310827aaf6a471",
+    "source_media_entry": "word/media/image13.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/windows-system-shell.png",
+    "sha256": "e75af3fd5b90fcf36d2b4b7ce9a9095fb9873362641c287044d67bdf0c1a9b7a",
+    "source_image_sha256": "28d28b715a01fbc70fa1d224de8cd0c2c8f63d56b4d48e01f1ed2a9d11b1be11",
+    "source_media_entry": "word/media/image6.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/windows-open-ports.png",
+    "sha256": "0d81a45bb0cfcf0a7379d188d8d145984b7e6d8378ef9e43f33f5984e1379aaf",
+    "source_image_sha256": "39ca298548553d154ca9390b9cde24190f1659ab3472510b51486d0a4eec283e",
+    "source_media_entry": "word/media/image5.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/netdiscover-hosts.png",
+    "sha256": "4f6bd1ddfb647be473fa781e4afa30b9ecb210eb6b1513f9da137b57310c898f",
+    "source_image_sha256": "4fdcc340c597822571cdff250bef100e78d4a79933c5c829c00b11b4848776cc",
+    "source_media_entry": "word/media/image2.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/linux-service-versions.png",
+    "sha256": "e7be1dfbc44f3db6038c80f7c29e114df864678f5f7277ea36c465aaacacc74e",
+    "source_image_sha256": "67d1ecde98b7fd35f97c1272cc62ced4b6f91bf902e2df7a853b8dc60997fe91",
+    "source_media_entry": "word/media/image11.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/linux-meterpreter-system.png",
+    "sha256": "e0970299e5f224f391bd4fd956b6e653667e71ca7981a6cdd7544557cfd2cc13",
+    "source_image_sha256": "7f8441578f6d395d40b147c2c1c2c0a5c76e94604f5bb5455683d5ce5c7db0eb",
+    "source_media_entry": "word/media/image3.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/dvwa-command-execution.png",
+    "sha256": "4868f72d43869e0dbbe6efc6af00b09e5cff8d34ffe6768d18de843bd33c0874",
+    "source_image_sha256": "825ce64fd5bb4515cc858ca33385f02e2af398e7dd8eab0d488f04e176db0a27",
+    "source_media_entry": "word/media/image6.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/windows-system-privileges.png",
+    "sha256": "29a629b59cf2a865e4e1e924c5da238b505da78e27ef8efe029104e50e326232",
+    "source_image_sha256": "8479002c90358ef70611472bac89ad05fe26b23d15ee65d4143194cf4f0c4083",
+    "source_media_entry": "word/media/image4.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/forensic-archive-extraction.png",
+    "sha256": "19efe41d4dbdca4c9c1f74ffe0f25db3ef9bb6906abc4932bc7fbd6eb39a46a0",
+    "source_image_sha256": "8a8f3813759c7881450d3a1b86db18da5346949d86ef8d22a8d2beec9fa9a0d4",
+    "source_media_entry": "word/media/image22.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/forensic-image-checksum.png",
+    "sha256": "282136c9e305441ca7a4eca6ae304641ec91fa8832d2acdd84b650889da318ca",
+    "source_image_sha256": "914c4cc2b5d60e2c6a964178a34bf80b96970be3bafc0b0921c84b5959128c29",
+    "source_media_entry": "word/media/image22.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/eternalblue-session.png",
+    "sha256": "cae7a24f21f4da0b789535dcb4eba32db09b815fa4f963c3a0ffb87d00182a30",
+    "source_image_sha256": "a2108cb8e9a224329343e1f28536acf4a86c1393f285b9f4a3f2dfb8477ca96a",
+    "source_media_entry": "word/media/image3.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/greenbone-windows-findings.png",
+    "sha256": "f6803b49caff52b5b4e9687a634d836a17549be37aa74f22e2179abbbadd9b91",
+    "source_image_sha256": "b4f5b43bb487a0eb2ada2cba0f05999cacc00f31735cdd621b25c87898fe840a",
+    "source_media_entry": "word/media/image13.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/nmap-host-discovery.png",
+    "sha256": "8447c4067ae3066f64a6788972bb0970448f8e079bec53b6c784e3d48424474a",
+    "source_image_sha256": "bd6d8d31f5cc3953a0c49a93341c4c6817162bb16d69d51788848f6fbbc8d228",
+    "source_media_entry": "word/media/image3.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/linux-open-ports.png",
+    "sha256": "3bbde8a13141ccce4f4bc4783fbb31e11bbc37532ccb3a89507be8b080fce0d5",
+    "source_image_sha256": "c3852c166037361e026e5cb2e2f5dfeaa38c06bec1a77a387f636b1fe38e0643",
+    "source_media_entry": "word/media/image6.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/dvwa-execution-identity.png",
+    "sha256": "cc2350bdc98fb490fd95241335c10dbff88a7df20c5369f41d441877396d8da7",
+    "source_image_sha256": "d74127366f76c25f836b5bd0529a882a5724bbd7ccf610a67fc1f05b3cb9f02b",
+    "source_media_entry": "word/media/image12.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/dvwa-database-enumeration.png",
+    "sha256": "bd5017035cc6d56721a3637dc1f7be4b2bfc24c0656ca2c2c5c5f2fdf55b1e58",
+    "source_image_sha256": "ed5706b38eaad4412967351750a6d23f7e1170a2690b587d8e535a7b81be51db",
+    "source_media_entry": "word/media/image15.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/dvwa-xss-alert.png",
+    "sha256": "9b7dde8c39d87e3695240721f71325bb2b66f695fb8fda8e86456d8e85adbfb8",
+    "source_image_sha256": "27b6abcefd798d9a63ac6079cb8ce8332c7ae7d378af24d3353e11d60bfd1701",
+    "source_media_entry": "word/media/image11.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  },
+  {
+    "file": "screenshots/forensic-recovered-files.png",
+    "sha256": "b44b60d04edacc2438c54ba65c2142ecd07257000174e1d1b9ab35b2cbc55ef8",
+    "source_image_sha256": "f8e8d81cb6699bd2994f3dbbd06e441ff663311cf329bc4aacbdda71a0f829d5",
+    "source_media_entry": "word/media/image14.png",
+    "processing": "PNG re-encoding to remove metadata; pixel content retained"
+  }
+]

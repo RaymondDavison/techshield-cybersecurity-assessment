@@ -1,0 +1,18 @@
+# Keep private sources and secrets out of this repository
+.portfolio-private/
+private/
+originals/
+*.docx
+*.pdf
+*.pptx
+*.xml
+*.dd
+*.zip
+*.env
+.env*
+*passwords*
+*hashes.txt
+*.key
+*.pem
+Thumbs.db
+desktop.ini
